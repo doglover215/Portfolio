@@ -1,6 +1,6 @@
-LINK = https://chandee-soft.netlify.app/
+LINK = https://ChengYu-soft.netlify.app/
 
-🌐 Personal Portfolio — ChanDee Verma
+🌐 Personal Portfolio — ChengYu(诚宇) Verma
 
 A modern and responsive personal portfolio website showcasing my skills, projects, and experience as a Backend Developer & Gen-AI Engineer.
 Designed with a clean UI, smooth animations, and a futuristic aesthetic — fully optimized for both desktop and mobile.
