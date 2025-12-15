@@ -1,6 +1,6 @@
-LINK = https://ashish39403.github.io/Personal_Portfolio_Site/
+LINK = https://visionary-kheer-004dbd.netlify.app/
 
-🌐 Personal Portfolio — Ashish Verma
+🌐 Personal Portfolio — ChanDee Verma
 
 A modern and responsive personal portfolio website showcasing my skills, projects, and experience as a Backend Developer & Gen-AI Engineer.
 Designed with a clean UI, smooth animations, and a futuristic aesthetic — fully optimized for both desktop and mobile.
@@ -9,9 +9,9 @@ Designed with a clean UI, smooth animations, and a futuristic aesthetic — full
 
 Frontend: HTML, CSS, JavaScript, Bootstrap
 
-Backend (Showcased): Python, Django, REST APIs
+Backend (Showcased): Node.js, Express.js
 
-AI/Gen-AI: Model integration, AI-driven apps
+Mobile: Cross-Platform Developemnt(Swift/SwiftUi, Kotlin, React-Native)
 
 Other: Responsive Design, Modern UI/UX, Animations
 
@@ -37,8 +37,6 @@ Hero Section — Professional intro
 
 About Me — Who I am & what I do
 
-Skills — Backend + AI tech stack
+Skills — Web + Mobile Development
 
 Projects — Highlighting major work
-
-Contact — Connect via LinkedIn, GitHub, Discord
