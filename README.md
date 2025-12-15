@@ -1,4 +1,4 @@
-LINK = https://visionary-kheer-004dbd.netlify.app/
+LINK = https://chandee-soft.netlify.app/
 
 🌐 Personal Portfolio — ChanDee Verma
 
